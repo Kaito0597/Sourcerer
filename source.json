@@ -40,6 +40,18 @@
       "versions": [ 
         
       ]
+    },
+    { 
+      "name": "Hermes",
+      "bundleIdentifier": "dylan.com.Hermes",
+      "developerName": "Dylan Thielking",
+      "subtitle": "Swiss Knife file downloader",
+      "localizedDescription": "JDownloader inspired file downloader. Support for sites is limited at the moment.",
+      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "tintColor": "#5CA399",
+      "versions": [ 
+        
+      ]
     }
   ]
 }
