@@ -7,7 +7,7 @@
   "website": "https://github.com/Kaito0597",
   "tintColor": "#4185A9",
   "featuredApps": [
-    "dylan.com.Momus",
+    "dylan.com.Hermes",
     "dylan.com.Workshop"
   ],
   "apps": [
@@ -29,16 +29,16 @@
         }
       ]
     },
-    // {
-    //   "name": "Momus",
-    //   "bundleIdentifier": "dylan.com.Momus",
-    //   "developerName": "Dylan Thielking",
-    //   "subtitle": "Third-Party Reddit Client",
-    //   "localizedDescription": "Apollo inspired Reddit client built from the ground up to feel native to Apple platforms.",
-    //   "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-    //   "tintColor": "#5CA399",
-    //   "versions": []
-    // },
+    {
+      "name": "Momus",
+      "bundleIdentifier": "dylan.com.Momus",
+      "developerName": "Dylan Thielking",
+      "subtitle": "Third-Party Reddit Client",
+      "localizedDescription": "Apollo inspired Reddit client built from the ground up to feel native to Apple platforms.",
+      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "tintColor": "#5CA399",
+      "versions": []
+    },
     {
       "name": "Hermes",
       "bundleIdentifier": "dylan.com.Hermes",
