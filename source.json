@@ -1,0 +1,42 @@
+{
+  "name": "Dylan's Workshop",
+  "subtitle": "My iOS development portfolio.",
+  "description": "A collection of most of the apps that I have developed, or are developing.",
+  "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+  "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+  "website": "https://github.com/Kaito0597",
+  "tintColor": "#4185A9",
+  "featuredApps": [
+      "com.example.myapp",
+      "com.example.anotherapp"
+  ],
+  "apps": [ 
+    { 
+      "name": "Workshop",
+      "bundleIdentifier": "dylan.com.Workshop",
+      "developerName": "Dylan Thielking",
+      "subtitle": "The Workshop for workshopping",
+      "localizedDescription": "An app where I test new ideas.",
+      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "tintColor": "#5CA399",
+      "screenshots": [
+          "https://example.com/myapp_portrait_screenshot1.png",
+          "https://example.com/myapp_portrait_screenshot2.png",
+          {
+              "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+              "width": 2556,
+              "height": 1179
+          }
+      ],
+      "versions": [
+          {
+              "version": "1.0",
+              "date": "2022-03-16T07:00:00-08:00",
+              "size": 10000000,
+              "downloadURL": "https://github.com/Kaito0597/Workshop/releases/download/build-12/Workshop.ipa",
+              "localizedDescription": "Initial release."
+          }
+      ],
+    }
+  ]
+}
