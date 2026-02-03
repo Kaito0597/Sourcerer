@@ -46,6 +46,13 @@
       "tintColor": "#5CA399",
       "versions": [
         {
+          "version": "1.5",
+          "date": "2026-02-03T17:35:30Z",
+          "size": 20000000,
+          "downloadURL": "https://github.com/Kaito0597/Sourcerer/releases/download/build-5/Hermes.ipa",
+          "localizedDescription": "Auto-build from GitHub Actions"
+        },
+        {
           "version": "1.2",
           "date": "2026-02-03T17:13:01Z",
           "size": 20000000,
