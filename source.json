@@ -21,6 +21,13 @@
       "tintColor": "#5CA399",
       "versions": [
         {
+          "version": "1.24",
+          "date": "2026-02-03T18:02:25Z",
+          "size": 20000000,
+          "downloadURL": "https://github.com/Kaito0597/Sourcerer/releases/download/build-24/Workshop.ipa",
+          "localizedDescription": "Auto-build from GitHub Actions"
+        },
+        {
           "version": "1.23",
           "date": "2026-02-03T17:30:09Z",
           "size": 20000000,
