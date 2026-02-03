@@ -7,11 +7,11 @@
   "website": "https://github.com/Kaito0597",
   "tintColor": "#4185A9",
   "featuredApps": [
-      "com.example.myapp",
-      "com.example.anotherapp"
+    "com.example.myapp",
+    "com.example.anotherapp"
   ],
-  "apps": [ 
-    { 
+  "apps": [
+    {
       "name": "Workshop",
       "bundleIdentifier": "dylan.com.Workshop",
       "developerName": "Dylan Thielking",
@@ -20,22 +20,29 @@
       "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
       "tintColor": "#5CA399",
       "screenshots": [
-          "https://example.com/myapp_portrait_screenshot1.png",
-          "https://example.com/myapp_portrait_screenshot2.png",
-          {
-              "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-              "width": 2556,
-              "height": 1179
-          }
+        "https://example.com/myapp_portrait_screenshot1.png",
+        "https://example.com/myapp_portrait_screenshot2.png",
+        {
+          "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+          "width": 2556,
+          "height": 1179
+        }
       ],
       "versions": [
-          {
-              "version": "1.0",
-              "date": "2022-03-16T07:00:00-08:00",
-              "size": 10000000,
-              "downloadURL": "https://github.com/Kaito0597/Workshop/releases/download/build-12/Workshop.ipa",
-              "localizedDescription": "Initial release."
-          }
+        {
+          "version": "1.20",
+          "date": "2026-02-03T16:40:23Z",
+          "size": 20000000,
+          "downloadURL": "https://github.com/Kaito0597/Workshop/releases/download/build-20/Workshop.ipa",
+          "localizedDescription": "Auto-build from GitHub Actions"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-03-16T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/Kaito0597/Workshop/releases/download/build-12/Workshop.ipa",
+          "localizedDescription": "Initial release."
+        }
       ]
     }
   ]
