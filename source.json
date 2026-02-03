@@ -7,8 +7,8 @@
   "website": "https://github.com/Kaito0597",
   "tintColor": "#4185A9",
   "featuredApps": [
-      "com.example.myapp",
-      "com.example.anotherapp"
+      "dylan.com.Momus",
+      "dylan.com.Workshop"
   ],
   "apps": [ 
     { 
@@ -27,7 +27,7 @@
               "downloadURL": "https://github.com/Kaito0597/Workshop/releases/download/build-12/Workshop.ipa",
               "localizedDescription": "Initial release."
           }
-      ],
+      ]
     },
     {
       "name": "Momus",
