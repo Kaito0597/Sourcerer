@@ -7,11 +7,11 @@
   "website": "https://github.com/Kaito0597",
   "tintColor": "#4185A9",
   "featuredApps": [
-      "dylan.com.Momus",
-      "dylan.com.Workshop"
+    "dylan.com.Momus",
+    "dylan.com.Workshop"
   ],
-  "apps": [ 
-    { 
+  "apps": [
+    {
       "name": "Workshop",
       "bundleIdentifier": "dylan.com.Workshop",
       "developerName": "Dylan Thielking",
@@ -20,13 +20,13 @@
       "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
       "tintColor": "#5CA399",
       "versions": [
-          {
-              "version": "1.0",
-              "date": "2022-03-16T07:00:00-08:00",
-              "size": 10000000,
-              "downloadURL": "https://github.com/Kaito0597/Workshop/releases/download/build-12/Workshop.ipa",
-              "localizedDescription": "Initial release."
-          }
+        {
+          "version": "1.0",
+          "date": "2022-03-16T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/Kaito0597/Workshop/releases/download/build-12/Workshop.ipa",
+          "localizedDescription": "Initial release."
+        }
       ]
     },
     {
@@ -37,11 +37,9 @@
       "localizedDescription": "Apollo inspired Reddit client built from the ground up to feel native to Apple platforms.",
       "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
       "tintColor": "#5CA399",
-      "versions": [ 
-        
-      ]
+      "versions": []
     },
-    { 
+    {
       "name": "Hermes",
       "bundleIdentifier": "dylan.com.Hermes",
       "developerName": "Dylan Thielking",
@@ -49,8 +47,14 @@
       "localizedDescription": "JDownloader inspired file downloader. Support for sites is limited at the moment.",
       "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
       "tintColor": "#5CA399",
-      "versions": [ 
-        
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2026-02-03T17:13:01Z",
+          "size": 20000000,
+          "downloadURL": "https://github.com/Kaito0597/Hermes/releases/download/build-2/Hermes.ipa",
+          "localizedDescription": "Auto-build from GitHub Actions"
+        }
       ]
     }
   ]
