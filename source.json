@@ -36,7 +36,7 @@
       "subtitle": "Third-Party Reddit Client",
       "localizedDescription": "Apollo inspired Reddit client built from the ground up to feel native to Apple platforms.",
       "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-      "tintColor": "#5CA399"
+      "tintColor": "#5CA399",
       "versions": [ 
         
       ]
