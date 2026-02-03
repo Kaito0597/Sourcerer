@@ -9,48 +9,15 @@
   "featuredApps": [
     "dylan.com.Momus",
     "dylan.com.Hermes",
-    "dylan.com.Workshop"
   ],
   "apps": [
-    {
-      "name": "Workshop",
-      "bundleIdentifier": "dylan.com.Workshop",
-      "developerName": "Dylan Thielking",
-      "subtitle": "The Workshop for workshopping",
-      "localizedDescription": "An app where I test new ideas.",
-      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-      "tintColor": "#5CA399",
-      "versions": [
-        {
-          "version": "1.24",
-          "date": "2026-02-03T18:02:25Z",
-          "size": 20000000,
-          "downloadURL": "https://github.com/Kaito0597/Sourcerer/releases/download/build-24/Workshop.ipa",
-          "localizedDescription": "Auto-build from GitHub Actions"
-        },
-        {
-          "version": "1.23",
-          "date": "2026-02-03T17:30:09Z",
-          "size": 20000000,
-          "downloadURL": "https://github.com/Kaito0597/Sourcerer/releases/download/build-23/Workshop.ipa",
-          "localizedDescription": "Auto-build from GitHub Actions"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-03-16T07:00:00-08:00",
-          "size": 10000000,
-          "downloadURL": "https://github.com/Kaito0597/Workshop/releases/download/build-12/Workshop.ipa",
-          "localizedDescription": "Initial release."
-        }
-      ]
-    },
     {
       "name": "Hermes",
       "bundleIdentifier": "dylan.com.Hermes",
       "developerName": "Dylan Thielking",
       "subtitle": "Swiss Knife file downloader",
       "localizedDescription": "JDownloader inspired file downloader. Support for sites is limited at the moment.",
-      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "iconURL": "https://github.com/Kaito0597/Sourcerer/blob/main/icons/hermes.png?raw=true",
       "tintColor": "#5CA399",
       "versions": [
         {
@@ -82,7 +49,7 @@
       "developerName": "Dylan Thielking",
       "subtitle": "Third-party Reddit client",
       "localizedDescription": "Apollo-inspired third-party Reddit client built from the ground up to feel native to Apple's platforms.",
-      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "iconURL": "https://github.com/Kaito0597/Sourcerer/blob/a71ebd23097547fa1e356a16a91c42f032234a53/icons/momus.png?raw=true",
       "tintColor": "#5CA399",
       "versions": [
         {
