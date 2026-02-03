@@ -19,15 +19,6 @@
       "localizedDescription": "An app where I test new ideas.",
       "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
       "tintColor": "#5CA399",
-      "screenshots": [
-          "https://example.com/myapp_portrait_screenshot1.png",
-          "https://example.com/myapp_portrait_screenshot2.png",
-          {
-              "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-              "width": 2556,
-              "height": 1179
-          }
-      ],
       "versions": [
           {
               "version": "1.0",
@@ -37,21 +28,18 @@
               "localizedDescription": "Initial release."
           }
       ]
-    }
-    // {
-    //   "name": "Momus",
-    //   "bundleIdentifier": "dylan.com.Momus",
-    //   "developerName": "Dylan Thielking",
-    //   "subtitle": "Third-Party Reddit Client",
-    //   "localizedDescription": "Apollo inspired Reddit client built from the ground up to feel native to Apple platforms.",
-    //   "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-    //   "tintColor": "#5CA399",
-    //   "screenshots": [
-
-    //   ],
-    //   "versions": [ 
+    },
+    {
+      "name": "Momus",
+      "bundleIdentifier": "dylan.com.Momus",
+      "developerName": "Dylan Thielking",
+      "subtitle": "Third-Party Reddit Client",
+      "localizedDescription": "Apollo inspired Reddit client built from the ground up to feel native to Apple platforms.",
+      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "tintColor": "#5CA399",
+      "versions": [ 
         
-    //   ]
-    // }
+      ]
+    }
   ]
 }
