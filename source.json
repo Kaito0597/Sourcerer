@@ -6,10 +6,7 @@
   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
   "website": "https://github.com/Kaito0597",
   "tintColor": "#4185A9",
-  "featuredApps": [
-    "dylan.com.Momus",
-    "dylan.com.Hermes",
-  ],
+  "featuredApps": ["dylan.com.Momus", "dylan.com.Hermes"],
   "apps": [
     {
       "name": "Hermes",
@@ -19,6 +16,20 @@
       "localizedDescription": "JDownloader inspired file downloader. Support for sites is limited at the moment.",
       "iconURL": "https://github.com/Kaito0597/Sourcerer/blob/main/icons/hermes.png?raw=true",
       "tintColor": "#5CA399",
+      "screenshots": [
+        "https://github.com/Kaito0597/Sourcerer/blob/main/screenshots/hermes/downloads.png?raw=true",
+        "https://github.com/Kaito0597/Sourcerer/blob/main/screenshots/hermes/browse.png?raw=true",
+        {
+          "imageURL": "https://github.com/Kaito0597/Sourcerer/blob/main/screenshots/hermes/downloads.png?raw=true",
+          "width": 1339,
+          "height": 2716
+        },
+        {
+          "imageURL": "https://github.com/Kaito0597/Sourcerer/blob/main/screenshots/hermes/browse.png?raw=true",
+          "width": 1339,
+          "height": 2716
+        }
+      ],
       "versions": [
         {
           "version": "1.8",
@@ -51,6 +62,14 @@
       "localizedDescription": "Apollo-inspired third-party Reddit client built from the ground up to feel native to Apple's platforms.",
       "iconURL": "https://github.com/Kaito0597/Sourcerer/blob/a71ebd23097547fa1e356a16a91c42f032234a53/icons/momus.png?raw=true",
       "tintColor": "#5CA399",
+      "screenshots": [
+        "https://github.com/Kaito0597/Sourcerer/blob/main/screenshots/momus/home.png?raw=true",
+        {
+          "imageURL": "https://github.com/Kaito0597/Sourcerer/blob/main/screenshots/momus/home.png?raw=true",
+          "width": 1339,
+          "height": 2716
+        }
+      ],
       "versions": [
         {
           "version": "1.3",
