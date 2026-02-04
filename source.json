@@ -6,7 +6,10 @@
   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
   "website": "https://github.com/Kaito0597",
   "tintColor": "#4185A9",
-  "featuredApps": ["dylan.com.Momus", "dylan.com.Hermes"],
+  "featuredApps": [
+    "dylan.com.Momus",
+    "dylan.com.Hermes"
+  ],
   "apps": [
     {
       "name": "Hermes",
@@ -90,6 +93,13 @@
         }
       ],
       "versions": [
+        {
+          "version": "1.4",
+          "date": "2026-02-04T16:39:12Z",
+          "size": 20000000,
+          "downloadURL": "https://github.com/Kaito0597/Sourcerer/releases/download/build-4/Momus.ipa",
+          "localizedDescription": "Auto-build from GitHub Actions"
+        },
         {
           "version": "1.3",
           "date": "2026-02-03T18:24:51Z",
