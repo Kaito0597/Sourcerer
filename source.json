@@ -6,17 +6,14 @@
   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
   "website": "https://github.com/Kaito0597",
   "tintColor": "#4185A9",
-  "featuredApps": [
-    "dylan.com.Momus",
-    "dylan.com.Hermes"
-  ],
+  "featuredApps": ["dylan.com.Momus", "dylan.com.Hermes"],
   "apps": [
     {
       "name": "Hermes",
       "bundleIdentifier": "dylan.com.Hermes",
       "developerName": "Dylan Thielking",
-      "subtitle": "Swiss Knife file downloader",
-      "localizedDescription": "JDownloader inspired file downloader. Support for sites is limited at the moment.",
+      "subtitle": "JDownloader inspired app to download images in bulk from multiple websites that do not offer traditional download options.",
+      "localizedDescription": "Support for downloading is limited to just two NSFW sites at the moment, as that was where my attention was focused: vipergirls.to and xchina.co",
       "iconURL": "https://github.com/Kaito0597/Sourcerer/blob/main/icons/hermes.png?raw=true",
       "tintColor": "#5CA399",
       "screenshots": [
@@ -66,8 +63,8 @@
       "name": "Momus",
       "bundleIdentifier": "dylan.com.Momus",
       "developerName": "Dylan Thielking",
-      "subtitle": "Third-party Reddit client",
-      "localizedDescription": "Apollo-inspired third-party Reddit client built from the ground up to feel native to Apple's platforms.",
+      "subtitle": "Apollo-inspired third-party Reddit client built from the ground up to feel native to Apple's platforms.",
+      "localizedDescription": "Tried to imitate Apollo's paradigm of making an application that follows Apple's design guidlines, so it seems as native as possible.",
       "iconURL": "https://github.com/Kaito0597/Sourcerer/blob/a71ebd23097547fa1e356a16a91c42f032234a53/icons/momus.png?raw=true",
       "tintColor": "#5CA399",
       "screenshots": [
