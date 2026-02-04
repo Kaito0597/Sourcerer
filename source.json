@@ -26,6 +26,11 @@
           "imageURL": "https://github.com/Kaito0597/Sourcerer/blob/main/screenshots/hermes/browse.png?raw=true",
           "width": 1179,
           "height": 2556
+        },
+        {
+          "imageURL": "https://github.com/Kaito0597/Sourcerer/blob/main/screenshots/hermes/settings.png?raw=true",
+          "width": 1179,
+          "height": 2556
         }
       ],
       "versions": [
@@ -70,6 +75,16 @@
       "screenshots": [
         {
           "imageURL": "https://github.com/Kaito0597/Sourcerer/blob/main/screenshots/momus/home.png?raw=true",
+          "width": 1179,
+          "height": 2556
+        },
+        {
+          "imageURL": "https://github.com/Kaito0597/Sourcerer/blob/main/screenshots/momus/profile.png?raw=true",
+          "width": 1179,
+          "height": 2556
+        },
+        {
+          "imageURL": "https://github.com/Kaito0597/Sourcerer/blob/main/screenshots/momus/settings.png?raw=true",
           "width": 1179,
           "height": 2556
         }
