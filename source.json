@@ -94,6 +94,13 @@
       ],
       "versions": [
         {
+          "version": "1.7",
+          "date": "2026-02-05T06:13:05Z",
+          "size": 20000000,
+          "downloadURL": "https://github.com/Kaito0597/Sourcerer/releases/download/build-7/Momus.ipa",
+          "localizedDescription": "Auto-build from GitHub Actions"
+        },
+        {
           "version": "1.6",
           "date": "2026-02-05T02:57:31Z",
           "size": 20000000,
