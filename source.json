@@ -38,6 +38,13 @@
       ],
       "versions": [
         {
+          "version": "1.21",
+          "date": "2026-02-20T16:40:32Z",
+          "size": 20000000,
+          "downloadURL": "https://github.com/Kaito0597/Sourcerer/releases/download/build-21/Hermes.ipa",
+          "localizedDescription": "Auto-build from GitHub Actions"
+        },
+        {
           "version": "1.20",
           "date": "2026-02-20T16:25:12Z",
           "size": 20000000,
